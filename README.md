@@ -100,7 +100,7 @@
     <td width="50%">
         <div align="center">
             <h3>Artesano</h3>
-            <img src="https://github.com/AnaSantana016/AnaSantana016/assets/72494472/1cd14601-f1ad-4571-b0d0-033c335fd46c" alt="Artesano">
+            <img src="https://github.com/AnaSantana016/AnaSantana016/assets/72494472/1cd14601-f1ad-4571-b0d0-033c335fd46c" alt="Artesano" width="90%">
         </div>
         <div align="justify">
             Página web para subir y comprar productos artesanales únicos.
