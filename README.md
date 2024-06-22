@@ -49,6 +49,7 @@
 <ul>
   
   <li> <strong>Lenguajes de Programación</strong>: 
+	<br>
     <div>
       <img src="https://skillicons.dev/icons?i=js,html,css,ts,py,java,bash,r,c,cs,kotlin" alt="Lenguajes de Programación">
     </div>
@@ -57,12 +58,14 @@
   </li>
   
   <li> <strong>Frameworks</strong>:
+	<br>
     <div>
       <img src="https://skillicons.dev/icons?i=angular,bootstrap" alt="Frameworks">
     </div>
   </li>
 
   <li> <strong>Librerías</strong>: 
+	<br>
     <div>
       <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,threejs,jquery,opencv" alt="Librerias">
       <img src="https://i.imgur.com/7r08TpW.png" width="12%" alt="Libreria opengl">
@@ -70,26 +73,37 @@
   </li>
 
   <li><strong>Entornos de Desarrollo</strong>: 
+	<br>
     <div>
       <img src="https://skillicons.dev/icons?i=androidstudio,arduino,eclipse,idea,pycharm,sublime,vscode,unity" alt="Entornos de Desarrollo">
     </div>
   </li>
   
   <li><strong>Bases de Datos</strong>:
+	<br>
     <div>
       <img src="https://skillicons.dev/icons?i=firebase,mysql,sqlite" alt="Bases de Datos">
     </div>
   </li>
 
   <li><strong>Herramienta</strong>:
+	<br>
     <div>
       <img src="https://skillicons.dev/icons?i=git,latex" alt="Plataforma">
     </div>
   </li>
 
   <li><strong>Plataforma</strong>:
+	<br>
     <div>
       <img src="https://skillicons.dev/icons?i=github,figma" alt="Plataforma">
+    </div>
+  </li>
+
+  <li><strong>Sistemas Operativos</strong>:
+	<br>
+    <div>
+      <img src="https://skillicons.dev/icons?i=windows,linux" alt="Sistemas Operativos">
     </div>
   </li>
 </ul>
@@ -161,4 +175,4 @@
 
 [![](https://api.visitorbadge.io/api/VisitorHit?user=AnaSantana016&repo=AnaSantana016&countColor=%237B1E7A)]()
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=AnaSantana016&theme=onedark">
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=AnaSantana016&title=MultiLanguage,Commits,Experience,Repositories&theme=onedark">
