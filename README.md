@@ -1,32 +1,32 @@
 <h1>Hola👋, bienvenido a mi perfil 🙋🏽‍♀️</h1>
 
 <h3 align="justify">
-    Programadora con vistas a especializarme en desarrollo de aplicaciones web y móviles.Mi objetivo es crear soluciones tecnológicas que no solo sean funcionales, sino que también ofrezcan una experiencia de usuario excepcional.
+    Programadora con vistas a especializarme en desarrollo de aplicaciones web y móviles. Mi objetivo es crear soluciones tecnológicas que no solo sean funcionales, sino que también ofrezcan una experiencia de usuario excepcional.
 </h3>
 
 <h2>🌟 Habilidades Personales</h2>
 
-<table>
+<table align="center">
   <tr>
-    <td width="35%">
+    <td>
       <strong>Comunicación asertiva</strong>
     </td>  
-    <td width="40%">
+    <td>
       <strong>Resolución de problemas</strong>
     </td> 
-    <td width="40%">
-      <strong>Trabajo en equipo</strong>
+    <td>
+      <strong>Empatía</strong>
     </td>
   </tr>
 
   <tr>
-    <td width="30%">
+    <td>
       <strong>Escucha activa</strong>
     </td>
-    <td width="30%">
-      <strong>Empatía</strong>
+    <td>
+      <strong>Trabajo en equipo</strong>
     </td>
-    <td width="30%">
+    <td>
       <strong>Versatilidad</strong>
     </td>
   </tr>
@@ -94,27 +94,48 @@
   </li>
 </ul>
 
-<h3>🎯 Objetivos Profesionales</h3>
-<ul>
-<li><strong>A corto plazo</strong>: [Objetivos que planeas alcanzar en el futuro cercano]</li>
-<li><strong>A largo plazo</strong>: [Metas a largo plazo en tu carrera profesional]</li>
-</ul>
-
 <h2>📂 Proyectos Destacados</h2>
 
-<h3>[Nombre del Proyecto 1]</h3>
-<p>Descripción breve del proyecto. <a href="URL del proyecto">Enlace al proyecto</a></p>
-<ul>
-<li><strong>Tecnologías usadas</strong>: [Lista de Tecnologías]</li>
-<li><strong>Características</strong>: [Lista de Características o Funcionalidades Principales]</li>
-</ul>
-
-<h3>[Nombre del Proyecto 2]</h3>
-<p>Descripción breve del proyecto. <a href="URL del proyecto">Enlace al proyecto</a></p>
-<ul>
-<li><strong>Tecnologías usadas</strong>: [Lista de Tecnologías]</li>
-<li><strong>Características</strong>: [Lista de Características o Funcionalidades Principales]</li>
-</ul>
+<table>
+    <td width="50%">
+        <div align="center">
+            <h3>Artesano</h3>
+            <img src="https://github.com/AnaSantana016/AnaSantana016/assets/72494472/1cd14601-f1ad-4571-b0d0-033c335fd46c" alt="Artesano"  width="80%">
+        </div>
+        <div align="justify">
+            En nuestra página web, los usuarios pueden subir y comprar productos artesanales únicos y hechos con amor. @AlbeMR10, @IsaiCordero y @yabpenserio.
+        </div>
+        <ul>
+        <li><strong>Tecnologías usadas</strong>: Angular, Bootstrap, Spring y MySQL</li>
+        <li><strong>Autores</strong>: 
+            <a href="https://github.com/anaMJimenezPerez"  target="_blank" >@anaMJimenezPerez</a>,
+            <a href="https://github.com/ElenaaNavarroo"  target="_blank" >@ElenaaNavarroo</a>,
+            <a href="https://github.com/AlejandroOrtegaG"  target="_blank" >@AlejandroOrtegaG</a> y
+            <a href="https://github.com/PabloSMelian"  target="_blank" >@PabloSMelian</a>,
+        </li>
+        </ul>
+        <div align="center">
+            <p>Front-End:
+                <a href="https://github.com/AnaSantana016/Front-End_Artesano.git" target="_blank">
+                    <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+                </a>
+            </p>
+            <p>Back-End:
+                <a href="https://github.com/AnaSantana016/Back-End_Artesano.git" target="_blank">
+                    <img src="https://img.shields.io/badge/CODE-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+                </a>
+            </p>
+        </div>
+    </td>
+    <td width="50%">
+        <h3>[Nombre del Proyecto 2]</h3>
+        <p>Descripción breve del proyecto. <a href="URL del proyecto">Enlace al proyecto</a></p>
+        <ul>
+        <li><strong>Tecnologías usadas</strong>: [Lista de Tecnologías]</li>
+        <li><strong>Características</strong>: [Lista de Características o Funcionalidades Principales]</li>
+        </ul>
+    </td>
+</table>
 
 <h2>📫 Cómo contactarme</h2>
 <ul>
