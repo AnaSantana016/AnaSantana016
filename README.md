@@ -100,19 +100,19 @@
     <td width="50%">
         <div align="center">
             <h3>Artesano</h3>
-            <img src="https://github.com/AnaSantana016/AnaSantana016/assets/72494472/1cd14601-f1ad-4571-b0d0-033c335fd46c" alt="Artesano"  width="80%">
+            <img src="https://github.com/AnaSantana016/AnaSantana016/assets/72494472/1cd14601-f1ad-4571-b0d0-033c335fd46c" alt="Artesano">
         </div>
         <div align="justify">
-            En nuestra página web, los usuarios pueden subir y comprar productos artesanales únicos y hechos con amor. @AlbeMR10, @IsaiCordero y @yabpenserio.
+            Página web para subir y comprar productos artesanales únicos.
         </div>
         <ul>
-        <li><strong>Tecnologías usadas</strong>: Angular, Bootstrap, Spring y MySQL</li>
-        <li><strong>Autores</strong>: 
-            <a href="https://github.com/anaMJimenezPerez"  target="_blank" >@anaMJimenezPerez</a>,
-            <a href="https://github.com/ElenaaNavarroo"  target="_blank" >@ElenaaNavarroo</a>,
-            <a href="https://github.com/AlejandroOrtegaG"  target="_blank" >@AlejandroOrtegaG</a> y
-            <a href="https://github.com/PabloSMelian"  target="_blank" >@PabloSMelian</a>,
-        </li>
+            <li><strong>Tecnologías usadas</strong>: Angular, Bootstrap, Spring y MySQL</li>
+            <li><strong>Desarrolladores</strong>: 
+                <a href="https://github.com/anaMJimenezPerez"  target="_blank" >@anaMJimenezPerez</a>,
+                <a href="https://github.com/ElenaaNavarroo"  target="_blank" >@ElenaaNavarroo</a>,
+                <a href="https://github.com/AlejandroOrtegaG"  target="_blank" >@AlejandroOrtegaG</a> y
+                <a href="https://github.com/PabloSMelian"  target="_blank" >@PabloSMelian</a>,
+            </li>
         </ul>
         <div align="center">
             <p>Front-End:
@@ -128,20 +128,37 @@
         </div>
     </td>
     <td width="50%">
-        <h3>[Nombre del Proyecto 2]</h3>
-        <p>Descripción breve del proyecto. <a href="URL del proyecto">Enlace al proyecto</a></p>
+        <div align="center">
+            <h3>TuneWave</h3>
+            <img src="https://github.com/AlejandroDavidArzolaSaavedra/AlejandroDavidArzolaSaavedra/assets/90756437/462cab71-14a5-4e86-ad40-1393f5cb6c92" alt="estate agency" width="30%">
+            <img src="https://github.com/AnaSantana016/TuneWave/assets/90756437/f5f77bf4-216c-4624-a313-cec8e61e380e" alt="estate agency" width="31%">
+        </div>
+        <div align="justify">
+            Aplicación Android para los amantes de la música, que permite escuchar tus canciones favoritas.
+        </div>
         <ul>
-        <li><strong>Tecnologías usadas</strong>: [Lista de Tecnologías]</li>
-        <li><strong>Características</strong>: [Lista de Características o Funcionalidades Principales]</li>
+            <li><strong>Tecnologías usadas</strong>: Kotlin y Firebase</li>
+            <li><strong>Desarrollador</strong>: 
+                <a href="https://github.com/AlejandroDavidArzolaSaavedra"  target="_blank" >@AlejandroDavidArzolaSaavedra</a>
+            </li>
         </ul>
+        <div align="center">
+            <a href="https://github.com/AnaSantana016/TuneWave.git" target="_blank">
+                <img src="https://img.shields.io/badge/CODE-ff9?style=for-the-badge&logo=github&logoColor=black">
+            </a>
+        </div>
     </td>
 </table>
 
 <h2>📫 Cómo contactarme</h2>
-<ul>
-<li><a href="URL de tu LinkedIn">LinkedIn</a></li>
-<li><a href="URL de tu Email">Email</a></li>
-</ul>
+<a href="https://www.linkedin.com/in/ana-del-carmen-santana-ojeda-453275314/" target="_blank">
+		<img src="https://img.shields.io/badge/linkedin:  Ana-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
+</a>
 
-<hr>
-<p>Gracias por visitar mi perfil. Si te interesa mi trabajo o quieres colaborar en algún proyecto, no dudes en contactarme. ¡Hablemos!</p>
+<h4>Gracias por visitar mi perfil. Si te interesa mi trabajo o quieres colaborar en algún proyecto, no dudes en contactarme.</h4>
+
+Última modificación:22/06/2024
+
+[![](https://api.visitorbadge.io/api/VisitorHit?user=AnaSantana016&repo=AnaSantana016&countColor=%237B1E7A)]()
+
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=AnaSantana016&theme=onedark">
