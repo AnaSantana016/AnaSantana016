@@ -175,4 +175,4 @@
 
 [![](https://api.visitorbadge.io/api/VisitorHit?user=AnaSantana016&repo=AnaSantana016&countColor=%237B1E7A)]()
 
-<img align="left" src="https://github-profile-trophy.vercel.app/?username=AnaSantana016&title=MultiLanguage,Commits,Experience,Repositories&theme=onedark">
+<img align="left" src="https://github-profile-trophy.vercel.app/?username=AnaSantana016&title=MultiLanguage,Commits,PullRequest,Experience,Repositories&theme=onedark">
